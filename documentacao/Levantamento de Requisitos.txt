@@ -1,0 +1,76 @@
+. Muita das vezes a pessoa que levanta requisitos não sabe programar
+
+Levantamento de Requisitos:
+. Requisitos 
+. Negócio 
+. Entrevista com o cliente 
+. Requisitos funcionais, não funcionais e regras de negócios 
+. Diagrama casos de uso 
+. Diagrama de classes 
+. Prototipação 
+. Documentação
+
+
+REQUISITOS:
+Requisitos são solicitações, desejos ou necessidades
+
+NEGÓCIO:
+Negócio praticamente são problemas
+
+ENTREVISTA COM O CLIENTE:
+*Sempre anotar em uma entrevista*
+
+	SIMULAÇÃO DE LEVANTAMENTO DE REQUISITOS
+
+DIFICULDADE:
+custo dos panfletos
+
+
+informações do projeto:
+desenvolver um app que liste pacotes de viajem
+
+tenho mais telas?
+login
+uma tela que mostre os detalhes
+link pro site da agencia
+campo para o usuario ser redirecionado para o atendimento operacional da impresa
+
+tem alguma identidade visual?
+já possui uma paleta de cores
+
+ferramentas?
+cadastrar pacotes
+editar pacotes
+listar pacotes --- somente ativos
+habilitar/desabilitar pacotes
+
+Sistema bonito
+Sistema Rápido
+
+operacional pode cadastrar os pacotes e listar
+
+pacotes:
+titulo
+descrição
+data de viagem
+imagem
+preço
+status
+
+login: 
+acesso via tipo adm
+senha criptografad
+
+
+cliente visualiza somente no app
+
+Sistema para ambos dispositivos apple e android
+
+Aplicação em nuvem
+
+sistema com preferencia ao publico nacional mas com tradução para o inglês
+
+acessibilidade
+
+
+
