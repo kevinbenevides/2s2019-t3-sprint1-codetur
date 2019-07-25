@@ -1,0 +1,4 @@
+Módulos= Pequenos projetos que geram grandes projetos
+Atores= tipos de usuário
+Premissas= o que faz acontecer
+Casos de uso= possíveis ações dos usuários 
