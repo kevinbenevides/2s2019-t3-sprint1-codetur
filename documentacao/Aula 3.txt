@@ -1,0 +1,18 @@
+devops - práticas que integram o grupo de dev e o de infra
+
+*Focar em planejamento
+
+AZURE DEVOPS
+
+-Azure boards - cuida do planejamento
+
+-Azure Repos - {
+	mesma funcionalidades do git, 
+	git é uma linguagem, 
+	github uma empresa...
+	}  
+
+-Azure WebSites - publicar os sites
+
+-Azure Tests - fazer testes na Aplicação
+

@@ -1,0 +1,14 @@
+Padrões de projetos
+{
+DDD - Desenvolvimento dirigido ao domínio
+TDD - Desenvolvimento dirigido a testes
+}
+
+o q? onde?
+fica no domínio
+
+como?
+repositório
+
+1 - domínio
+2 - Infra.Data 
